@@ -13,10 +13,10 @@
           "name": "Basic Tips", "amount": "$3" , "accessDays": "Fri January 6 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":11
        },
        {
-        "name": "Jackpot Tips", "amount": "$9" , "accessDays": "Fri January 6 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
+        "name": "Jackpot Tips", "amount": "$6" , "accessDays": "Fri January 6 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
      },
        {
-           "name": "Standard Tips", "amount": "$8" , "accessDays": "Fri January 6 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":13    
+           "name": "Standard Tips", "amount": "$5" , "accessDays": "Fri January 6 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":13    
         },
         {
            "name": "Premium Tips", "amount": "$12" , "accessDays": "Fri January 6 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":16
