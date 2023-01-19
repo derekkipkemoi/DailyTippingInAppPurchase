@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Wed January 18 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Fri January 20 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "$1" , "accessDays": "Wed January 18 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "$1" , "accessDays": "Fri January 20 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":7
        }, 
        {
-        "name": "Jackpot Tips", "amount": "$2" , "accessDays": "Wed January 18 2023", "odds":"Guaranteed Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":7
+        "name": "Jackpot Tips", "amount": "$3" , "accessDays": "Fri January 20 2023", "odds":"Guaranteed Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":7
         },  
        {
-           "name": "Standard Tips", "amount": "$3" , "accessDays": "Wed January 18 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":11    
+           "name": "Standard Tips", "amount": "$3" , "accessDays": "Fri January 20 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":11    
         },
         {
-           "name": "Premium Tips", "amount": "$5" , "accessDays": "Wed January 18 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
+           "name": "Premium Tips", "amount": "$5" , "accessDays": "Fri January 20 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
         } 
      ],
 
@@ -116,29 +116,29 @@
     
    "freePredictions":[
         {
-            "fixture": "Cercle Brugge vs Royale Union Saint-Gilloise",
-            "prediction": "GG & Over 2.5",
-            "date": "18/01/2023"
+            "fixture": "Adana Demirspor vs Giresunspor",
+            "prediction": "Home Win",
+            "date": "20/01/2023"
         },
         {
-            "fixture": "Sporting Gijon vs Valencia",
+            "fixture": "Arouca vs Portimonense",
             "prediction": "Under 2.5",
-            "date": "18/01/2023"
+            "date": "20/01/2023"
         },
         {
-            "fixture": "Heart of Midlothian vs Aberdeen",
-            "prediction": "Under 2.5",
-            "date": "18/01/2023"
+            "fixture": "Excelsior Rotterdam vs Volendam",
+            "prediction": "Over 2.5",
+            "date": "20/01/2023"
         },
         {
-            "fixture": "Leeds United vs Cardiff City",
-            "prediction": "GG & Over 2.5",
-            "date": "18/01/2023"
+            "fixture": "RB Leipzig vs Bayern Munich",
+            "prediction": "Away Win & Over 2.5 & GG",
+            "date": "20/01/2023"
         },
         {
-            "fixture": "Crystal Palace vs Manchester United",
-            "prediction": "Away Win" ,
-            "date": "18/01/2023"
+            "fixture": "Eupen vs Genk",
+            "prediction": "HT/FT 2/2 & Over 2.5",
+            "date": "20/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,84 +173,84 @@
  
  "paidPredictions":[
     {
-        "fixture": "KV Oostende vs Antwerp",
-        "prediction": "2 & Over 2.5",
-        "date": "18/01/2023"
+        "fixture": "Sporting Lisbon vs Vizela",
+        "prediction": "Home Win",
+        "date": "20/01/2023"
     },
     {
-        "fixture": "Anderlecht vs Zulte-Waregem",
+        "fixture": "Burnley vs West Bromwich Albion",
+        "prediction": "Home Win",
+        "date": "20/01/2023"
+    },
+    {
+        "fixture": "Mallorca vs Celta Vigo",
         "prediction": "GG & Over 2.5",
-        "date": "18/01/2023"
+        "date": "20/01/2023"
     },
     {
-        "fixture": "KV Kortrijk vs Seraing",
+        "fixture": "Sanat Mes Kerman vs Naft Masjed-Soleyman",
+        "prediction": "Over 2.5",
+        "date": "20/01/2023"
+    },
+    {
+        "fixture": "Palermo vs Bari",
         "prediction": "Under 2.5",
-        "date": "18/01/2023"
+        "date": "20/01/2023"
     },
     {
-        "fixture": "Betis vs Osasuna",
-        "prediction": "1",
-        "date": "18/01/2023"
-    },
-    {
-        "fixture": "Levante UD vs Atletico Madrid",
-        "prediction": "Under 3.5",
-        "date": "18/01/2023"
-    },
-    {
-        "fixture": "Celtic vs St. Mirren",
-        "prediction": "HF/FT 1/1",
-        "date": "18/01/2023"
-    },
-    {
-        "fixture": "Livingston vs Dundee United",
+        "fixture": "Las Palmas vs CD Mirandes",
         "prediction": "GG & Over 2.5",
-        "date": "18/01/2023"
+        "date": "20/01/2023"
     },
     {
-        "fixture": "Kilmarnock vs Rangers",
-        "prediction": "Away win",
-        "date": "18/01/2023"
+        "fixture": "PEC Zwolle vs VVV-Venlo",
+        "prediction": "GG & Over 2.5 & Home Win",
+        "date": "20/01/2023"
     },
     {
-        "fixture": "AC Milan vs Inter Milan",
+        "fixture": "Almere City vs De Graafschap",
         "prediction": "GG & Over 2.5",
-        "date": "18/01/2023"
+        "date": "20/01/2023"
     },
     {
-        "fixture": "Fatih Karagumruk vs Istanbul Basaksehir",
-        "prediction": "Home Win & GG & Over 2.5",
-        "date": "18/01/2023"
+        "fixture": "Top Oss vs NAC",
+        "prediction": "1X",
+        "date": "20/01/2023"
     },
     {
-        "fixture": "MKE Ankaragucu vs Besiktas",
+        "fixture": "Den Bosch vs Jong PSV Eindhoven",
+        "prediction": "Over 2.5",
+        "date": "20/01/2023"
+    },
+    {
+        "fixture": "MVV Maastricht vs Heracles Almelo",
         "prediction": "GG & Over 2.5",
-        "date": "18/01/2023"
+        "date": "20/01/2023"
     },
     {
-        "fixture": "Umraniyespor vs Trabzonspor",
+        "fixture": "Panaitolikos Agrinio vs PAS Giannina",
+        "prediction": "Under 2.5",
+        "date": "20/01/2023"
+    },
+    {
+        "fixture": "Olympiakos Nicosia vs AEK Larnaca",
+        "prediction": "Away Win & Over 2.5",
+        "date": "20/01/2023"
+    },
+    {
+        "fixture": "Istra 1961 vs Slaven Belupo",
         "prediction": "GG & Over 2.5",
-        "date": "18/01/2023"
+        "date": "20/01/2023"
     },
     {
-        "fixture": "Al Shamal vs Umm Salal",
+        "fixture": "Chateauroux vs Avranches",
         "prediction": "Over 2.5",
-        "date": "18/01/2023"
+        "date": "20/01/2023"
     },
     {
-        "fixture": "A Penarol1 vs San Lorenzo",
+        "fixture": "Chateauroux vs Avranches",
         "prediction": "Over 2.5",
-        "date": "18/01/2023"
-    },
-    {
-        "fixture": "Dukla Prague vs Pribram",
-        "prediction": "Over 2.5",
-        "date": "17/01/2023"
-    },
-    {
-        "fixture": "Dukla Prague vs Pribram",
-        "prediction": "Over 2.5",
-        "date": "17/01/2023"
+        "date": "20/01/2023"
     }
     
     
