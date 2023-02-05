@@ -2,25 +2,22 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": false,
+    "showInterstitialAd": true,
     "showNativeAd": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Mon January 30th 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Mon January 7Th 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "$1" , "accessDays": "Mon January 30th 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":12
+          "name": "Basic Tips", "amount": "$1" , "accessDays": "Mon January 7Th 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":12
        }, 
        {
-        "name": "Megajackpot Tips", "amount": "$1" , "accessDays": "Thur February 02nd 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_megajackpot_sub","length":17
-     },
-       {
-           "name": "Standard Tips", "amount": "$3" , "accessDays": "Mon January 30th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":12    
+           "name": "Standard Tips", "amount": "$3" , "accessDays": "Mon January 7Th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":12    
         },
         
         {
-           "name": "Premium Tips", "amount":"$5" , "accessDays": "Mon January 30th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount":"$5" , "accessDays": "Mon January 7Th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
         } 
         
      ],
@@ -118,29 +115,29 @@
     
    "freePredictions":[
         {
-            "fixture":"Juventus vs Lazio",
+            "fixture":"Burnley- : -Ipswich Town",
+            "prediction": "Under 2.5",
+            "date": "06/02/2023"
+        },
+        {
+            "fixture": "Sheffield United- : -Wrexham",
+            "prediction":"Over 2.5",
+            "date": "06/02/2023"
+        },
+        {
+            "fixture": "SV Sandhausen- : -Freiburg",
+            "prediction":"Away Win",
+            "date": "06/02/2023"
+        },
+        {
+            "fixture": "Salernitana 1919- : -Juventus",
+            "prediction": "Home Win OR Draw",
+            "date": "06/02/2023"
+        },
+        {
+            "fixture": "Flamengo- : -Al-Hilal Riyadh",
             "prediction": "Home Win",
-            "date": "02/02/2023"
-        },
-        {
-            "fixture": "Real Madrid vs Valencia",
-            "prediction":"Home win, Over 1.5",
-            "date": "02/02/2023"
-        },
-        {
-            "fixture": "Konyaspor 1922 vs İstanbulspor",
-            "prediction":"Home Win",
-            "date": "02/02/2023"
-        },
-        {
-            "fixture": "Defensa y Justicia vs Ituzaingo",
-            "prediction": "Home Win",
-            "date": "02/02/2023"
-        },
-        {
-            "fixture": "Zulte-Waregem vs Mechelen",
-            "prediction": "Home Win",
-            "date": "02/02/2023"
+            "date": "06/02/2023"
         }
  ],
  "fixedPredictions":[
