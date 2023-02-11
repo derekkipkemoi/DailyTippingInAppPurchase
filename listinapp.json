@@ -284,6 +284,59 @@
 
    "predictionResults":[
     {
+        "date": "Friday, 3rd February 2022",
+        "gamesList": [
+         {
+             "fixture": "Heracles Vs Jong Fc Utrecht",
+             "prediction": "Over 2.5",
+             "odds": "1.45",
+             "results": "6-1 (WIN)"
+         },
+         {
+             "fixture": "Willem Ii Vs Helmond",
+             "prediction": "Over 1.5",
+             "odds": "1.30",
+             "results": "5-1 (WIN)"
+         },
+         {
+             "fixture": "Bilbao Vs. Cadiz",
+             "prediction": "Home Win",
+             "odds": "1.42",
+             "results": "4-1 (WIN)"
+         },
+        {
+             "fixture": "Lausanne-sport Vs Aarau",
+             "prediction": "Over 2.5 & GG",
+             "odds": "1.54",
+             "results": "4-1 (WIN)"
+         },
+        {
+             "fixture": "Queens Park Vs Ayr",
+             "prediction": "Over 1.5",
+             "odds": "1.20",
+             "results": "2-0 (WIN)"
+         },
+         {
+            "fixture": "Sandhausen Vs Darmstadt",
+            "prediction": "Over 1.5",
+            "odds": "1.31",
+            "results": "0-4 (WIN)"
+        },
+        {
+            "fixture": "Paderborn Vs Dusseldorf",
+            "prediction": "Over 2.5",
+            "odds": "1.71",
+            "results": "4-1 (WIN)"
+        },
+        {
+            "fixture": "Lillestrom Vs Stabaek",
+            "prediction": "Over 2.5",
+            "odds": "1.38",
+            "results": "2-2 (WIN)"
+        }
+        ]
+     },
+    {
         "date": "Friday, 13th January 2022",
         "gamesList": [
          {
