@@ -13,7 +13,7 @@
           "name": "Basic Tips", "amount": "$1" , "accessDays": "Monday, 6th March 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-        "name": "Jackpot Tips", "amount": "$2" , "accessDays": "Monday, 6th March 2023", "odds":"Sportpesa Guarnteed Jackpot Bonus Win","id":"id_jackpot_sub","length":8
+        "name": "Jackpot Tips", "amount": "$2" , "accessDays": "Monday, 6th March 2023", "odds":"Sportpesa Guarnteed Jackpot Bonus Win","id":"id_jackpot_sub","length":13
      },  
        {
            "name": "Standard Tips", "amount": "$3" , "accessDays": "Monday, 6th March 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":11    
